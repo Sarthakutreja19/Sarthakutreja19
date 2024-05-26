@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Sarthak Utreja
+- 👀 I’m interested in developing crazy stuff
+- 🌱 I’m currently learning full stack development
+- 💞️ I’m looking to collaborate on problem-solving stuff
+- 📫 How to reach me- sarthakutreja19@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I once programmed my toaster to tweet! It was really on fire!
